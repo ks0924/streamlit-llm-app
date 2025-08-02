@@ -23,7 +23,8 @@ jsonschema-specifications==2025.4.1
 langchain==0.3.27
 langchain-core==0.3.72
 langchain-text-splitters==0.3.9
-langsmith==0.4.9
+langchain_community
+langchain-openai
 markdown-it-py==3.0.0
 MarkupSafe==3.0.2
 mdurl==0.1.2
